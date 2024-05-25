@@ -6,7 +6,7 @@ import { Suspense } from "react";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "Profile Perfect",
+  title: "ProfilePerfect",
   description: "Generate awesome headshots in minutes using AI",
 };
 
